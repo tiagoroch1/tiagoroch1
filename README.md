@@ -13,7 +13,7 @@ Tecnologias que eu tenho conhecimento:
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-Eu estou cursando Ciência da Computação na UNASP, e estou em busca da minha primeira experiência profissional na área de Dev.<br><br>
+E estou em busca da minha primeira experiência profissional na área de Dev.<br><br>
 🧠 "O estudo é a escada para o sucesso; você não pode alcançar o topo sem subir os degraus."<br>
 
 Email: tiagosanttos200@gmail.com
