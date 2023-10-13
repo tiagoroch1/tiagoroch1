@@ -8,4 +8,4 @@ Olá! eu sou Tiago Rocha 👋
 
 Tecnologias que eu tenho conhecimento:
 
-[![Html](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Html](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
