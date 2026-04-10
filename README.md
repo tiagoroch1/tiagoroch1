@@ -1,5 +1,5 @@
 <h2 align="center">Hi, my name is Tiago.</h2>
-<h3>"Desenvolvedor em formação, focado em Python e Java. Estudante de Ciência da Computação na UNASP."</h3>
+<h3 align="center">"Desenvolvedor em formação, focado em Python e Java. Estudante de Ciência da Computação na UNASP."</h3>
 
 ###
 
