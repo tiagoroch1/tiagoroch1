@@ -1,5 +1,4 @@
 <h2 align="center">Hi, my name is Tiago.</h2>
-<h2 align="center">Welcome to my profile..</h2>
 <h3>"Desenvolvedor em formação, focado em Python e Java. Estudante de Ciência da Computação na UNASP."</h3>
 
 ###
@@ -40,5 +39,6 @@
   <img src="https://streak-stats.demolab.com?user=tiagoroch1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
-<h2>Sinta-se à vontade para explorar meus repositórios e contribuir!</h2>
+<h2 align="center">Sinta-se à vontade para explorar meus repositórios e contribuir!</h2>
+
 
