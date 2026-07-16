@@ -2,7 +2,7 @@
 
 **`Data & Analytics 🎲`**
 
-Sou Tiago, estudante de Ciência da Computação e apaixonado por tecnologia. Atualmente, estou iniciando minha trajetória profissional na área de Dados, atuando com AWS, Azure e bancos de dados.
+Sou Tiago, estudante de Ciência da Computação e apaixonado por tecnologia. Atualmente, estou iniciando minha trajetória profissional como Aprendiz de Dados, atuando com AWS, Azure e bancos de dados.
 
 Tenho experiência com projetos e estudos em HTML5, CSS3, JavaScript, Python e Java, e venho desenvolvendo minhas habilidades em SQL e Cloud Computing. Acredito no poder dos dados e da tecnologia para transformar processos e gerar soluções mais inteligentes.
 
