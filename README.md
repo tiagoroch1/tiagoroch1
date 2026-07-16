@@ -15,7 +15,7 @@ Tenho experiência com projetos e estudos em HTML5, CSS3, JavaScript, Python e J
             src="https://custom-icon-badges.demolab.com/github/stars/tiagoroch1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+    <a href="https://www.linkedin.com/in/tiago-rocha-desenv2/">
   <img
     alt="LinkedIn"
     title="Conecte-se comigo no LinkedIn"
