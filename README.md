@@ -90,7 +90,7 @@ Tenho experiência com projetos e estudos em HTML5, CSS3, JavaScript, Python e J
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
@@ -102,4 +102,4 @@ Tenho experiência com projetos e estudos em HTML5, CSS3, JavaScript, Python e J
 />
 
 <br/>
-
+<br/>
