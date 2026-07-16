@@ -15,13 +15,13 @@ Tenho experiência com projetos e estudos em HTML5, CSS3, JavaScript, Python e J
             src="https://custom-icon-badges.demolab.com/github/stars/tiagoroch1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/tiagoroch1?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/tiagoroch1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+    <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+  <img
+    alt="LinkedIn"
+    title="Conecte-se comigo no LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
 </p>
 
 ---
